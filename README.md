@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 GRC Projects:</h2>
 
-  - ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/bkhind/NIST-SP-800-53--MP-Audit-Project/tree/main)
-
+ 
+   - [NIST-SP-800-53--MP-Audit-Project](https://github.com/bkhind/NIST-SP-800-53--MP-Audit-Project)
 
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
