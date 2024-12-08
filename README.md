@@ -4,7 +4,7 @@
 <h2>👨‍💻 GRC Projects:</h2>
 
 - <b>NIST SP 800-53 -MP Audit Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [NIST SP 800-53 -MP Audit Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/bkhind/NIST-SP-800-53--MP-Audit-Project/tree/main))
 
 
 <h2>👨‍💻 Cybersecurity Projects: </h2>
